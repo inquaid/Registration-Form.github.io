@@ -1,0 +1,106 @@
+body {
+    background-color: #1B1B32;
+}
+
+.main {
+    margin-top: 10%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 5%;
+    background-color: #5656a7;
+    border: 2px solid #3B3B4F;
+    border-radius: 10px;
+    box-shadow: -10px 10px 5px rgb(103, 133, 143);
+}
+
+#title {
+    color: white;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 350%;
+}
+
+p {
+    font-size: 110%;
+}
+
+label {
+    color: white;
+}
+
+.field {
+    margin-left: 20%;
+}
+
+#input {
+    margin-top: 10px;
+    background-color: #0A0A23;
+    color: white;
+    border: none;
+    width: 300px;
+    height: 25px;
+
+}
+
+#ent {
+    margin-top: 10%;
+}
+
+.devider {
+    margin-top: 5%;
+    border: 2px solid #3B3B4F;
+    margin-right: 61%;
+}
+
+#upload {
+    width: 82%;
+    /* border: #ffffff; */
+    border: none;
+    background-color: #0A0A23;
+    color: white;
+
+}
+
+input::file-selector-button {
+    background-color: #0A0A23;
+    color: white;
+}
+
+input::fileselector-button:hover {
+    background-position-x: 100%;
+    transform: scale(1.1);
+}
+
+.secone_form {
+
+    line-height: 1.5;
+}
+
+#bio {
+    background-color: #0A0A23;
+    color: rgb(255, 255, 255);
+    border: none;
+    width: 82%;
+    height: 100px;
+    padding: 10px;
+    /* box-sizing: border-box;
+    overflow-y: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word; */
+}
+
+a{
+    color: white;
+}
+
+#submit{
+    background-color: #0A0A23;
+    color: white;
+    border: none;
+    width: 82%;
+    height: 30px;
+    margin-top: 10px;
+}
