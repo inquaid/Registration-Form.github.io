@@ -31,6 +31,5 @@ Check out the live version of the Elegant Registration Form [here](https://inqua
    git clone https://github.com/yourusername/elegant-registration-form.git
 2. Navigate to the project directory:
    ```bash
-    Copy code
-3. cd elegant-registration-form
-    Open index.html in your preferred web browser to view and use the registration form.
+   cd elegant-registration-form
+3. Open index.html in your preferred web browser to view and use the registration form.
