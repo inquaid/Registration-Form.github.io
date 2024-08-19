@@ -28,7 +28,7 @@ Check out the live version of the Elegant Registration Form [here](https://inqua
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/elegant-registration-form.git
+   git clone https://github.com/inquaid/elegant-registration-form.git
 2. Navigate to the project directory:
    ```bash
    cd elegant-registration-form
